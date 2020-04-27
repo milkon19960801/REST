@@ -1,0 +1,36 @@
+[
+  {
+    "name":"Milkon ",
+    "address":"Elsarostigen2.",
+    "phoneNumber":"0723-850674",
+    "id":1
+  },
+  {
+    "name":"Anto ",
+    "address":"Fotballsvägen 10.",
+    "phoneNumber":"0722-930871",
+    "id":2},
+  {
+    "name":"Khachig ",
+    "address":"Okstigen 6.",
+    "phoneNumber":"0728-723913",
+    "id":3
+  },
+  {
+    "name":"Sako ",
+    "address":"Sveavägen 1.",
+    "phoneNumber":"0708-702819","id":4
+  },
+  {
+    "name":"Serop ",
+    "address":"Byvägen 21.",
+    "phoneNumber":"0722-590203",
+    "id":5
+  },
+  {
+    "name":"Sam ",
+    "address":"Fornhöjdsvägen 27.",
+    "phoneNumber":"0702-882036",
+    "id":6
+  }
+]
